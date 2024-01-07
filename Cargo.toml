@@ -10,7 +10,7 @@ description = "A simple GitHub issues based todo list application written in Rus
 version = "1.0.108"
 
 [dependencies.serde]
-version = "1.0.193"
+version = "1.0.195"
 features = ["derive"]
 
 [dependencies.tokio]
